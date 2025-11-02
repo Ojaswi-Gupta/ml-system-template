@@ -6,3 +6,7 @@ ruff
 torch
 numpy
 httpx
+sqlalchemy
+psycopg2-binary
+pydantic-settings
+pre-commit
